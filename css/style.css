@@ -41,7 +41,7 @@ section {
     background-size: cover;
     background-position: top;
     background-attachment: fixed;
-    background-image: url('img/1.png');
+    
 }
 
 .bg_cover2 {
@@ -49,7 +49,7 @@ section {
     background-size: cover;
     background-position: top;
     background-attachment: fixed;
-    background-image: url('img/1.png');
+   
 }
 
 .overlay {
